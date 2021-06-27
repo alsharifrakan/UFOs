@@ -10,5 +10,5 @@ Creating a webpage and a dynamic table and allow users to filter for multiple cr
 
 ## **Results**
 
-
+you can perform searches based on five (5) different criteria at the same time by filling the designated filter boxes.
 ![](images/ufo.png)
